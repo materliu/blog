@@ -2,151 +2,147 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://materliu.github.io/blog/posts/papermod/papermod-installation/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/posts/papermod/papermod-features/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/series/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://materliu.github.io/blog/en/categories/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://materliu.github.io/blog/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://materliu.github.io/blog/fa/"
+                hreflang="zh"
+                href="https://materliu.github.io/blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://materliu.github.io/blog/"
+                href="https://materliu.github.io/blog/en/categories/"
                 />
   </url><url>
-    <loc>https://materliu.github.io/blog/posts/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://materliu.github.io/blog/en/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://materliu.github.io/blog/posts/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://materliu.github.io/blog/en/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/en/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://materliu.github.io/blog/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://materliu.github.io/blog/fa/posts/"
+                hreflang="zh"
+                href="https://materliu.github.io/blog/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://materliu.github.io/blog/posts/"
+                href="https://materliu.github.io/blog/en/tags/markdown/"
                 />
   </url><url>
-    <loc>https://materliu.github.io/blog/series/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/posts/markdown-syntax/</loc>
+    <loc>https://materliu.github.io/blog/en/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://materliu.github.io/blog/fr/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://materliu.github.io/blog/fa/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
+                hreflang="zh"
                 href="https://materliu.github.io/blog/posts/markdown-syntax/"
                 />
-  </url><url>
-    <loc>https://materliu.github.io/blog/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/posts/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/posts/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/archives/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://materliu.github.io/blog/fr/archives/"
+                hreflang="en"
+                href="https://materliu.github.io/blog/en/posts/markdown-syntax/"
+                />
+  </url><url>
+    <loc>https://materliu.github.io/blog/en/posts/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://materliu.github.io/blog/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://materliu.github.io/blog/en/posts/"
+                />
+  </url><url>
+    <loc>https://materliu.github.io/blog/en/series/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://materliu.github.io/blog/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://materliu.github.io/blog/en/series/"
+                />
+  </url><url>
+    <loc>https://materliu.github.io/blog/en/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/en/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://materliu.github.io/blog/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://materliu.github.io/blog/en/tags/"
+                />
+  </url><url>
+    <loc>https://materliu.github.io/blog/en/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/en/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/en/series/themes-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://materliu.github.io/blog/series/themes-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://materliu.github.io/blog/en/series/themes-guide/"
+                />
+  </url><url>
+    <loc>https://materliu.github.io/blog/en/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://materliu.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://materliu.github.io/blog/en/"
+                />
+  </url><url>
+    <loc>https://materliu.github.io/blog/en/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
                 href="https://materliu.github.io/blog/archives/"
                 />
-  </url><url>
-    <loc>https://materliu.github.io/blog/search/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://materliu.github.io/blog/fr/search/"
+                hreflang="en"
+                href="https://materliu.github.io/blog/en/archives/"
+                />
+  </url><url>
+    <loc>https://materliu.github.io/blog/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://materliu.github.io/blog/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://materliu.github.io/blog/search/"
+                href="https://materliu.github.io/blog/en/search/"
                 />
   </url>
 </urlset>
