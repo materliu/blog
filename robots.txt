@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://materliu.github.io/blog/sitemap.xml
