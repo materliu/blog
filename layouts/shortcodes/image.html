@@ -1,0 +1,3 @@
+{{ $imagePath := default "images/xiaoniu-1.jpeg" (default (.Get 0) (.Get "file"))}}
+{{- $imageRelPath := (resources.Get $imagePath).RelPermalink -}}
+<img loading="lazy" src="{{- $imageRelPath -}}" alt="" />
