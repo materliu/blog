@@ -6,7 +6,7 @@ date: "2022-06-04"
 description: "钥匙丢了可以配，电动遥控器丢了怎么配呢"
 tags: ["electric-bike", "remote", "lost", "小牛", "小牛U1"]
 categories: ["everyday life", "ride"]
-series: ["Themes Guide"]
+series: ["ride"]
 ShowToc: true
 TocOpen: true
 ---
