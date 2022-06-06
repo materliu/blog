@@ -8,6 +8,15 @@
     <loc>https://materliu.github.io/blog/posts/papermod/papermod-installation/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://materliu.github.io/blog/posts/idiom/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-04-12-%E9%81%93%E5%BE%B7%E4%BF%AE%E5%85%BB/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-04-12-%E7%B2%BE%E5%BD%A9%E7%A0%B4%E5%9C%BA/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://materliu.github.io/blog/posts/papermod/papermod-features/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -25,7 +34,7 @@
                 />
   </url><url>
     <loc>https://materliu.github.io/blog/categories/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -37,17 +46,17 @@
                 href="https://materliu.github.io/blog/categories/"
                 />
   </url><url>
-    <loc>https://materliu.github.io/blog/tags/electric-bike/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://materliu.github.io/blog/categories/everyday-life/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://materliu.github.io/blog/tags/lost/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+    <loc>https://materliu.github.io/blog/tags/idiom/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/tags/moral/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://materliu.github.io/blog/posts/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,14 +68,8 @@
                 href="https://materliu.github.io/blog/posts/"
                 />
   </url><url>
-    <loc>https://materliu.github.io/blog/tags/remote/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/categories/ride/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://materliu.github.io/blog/series/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -79,7 +82,7 @@
                 />
   </url><url>
     <loc>https://materliu.github.io/blog/tags/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -91,27 +94,11 @@
                 href="https://materliu.github.io/blog/tags/"
                 />
   </url><url>
-    <loc>https://materliu.github.io/blog/series/themes-guide/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://materliu.github.io/blog/en/series/themes-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://materliu.github.io/blog/series/themes-guide/"
-                />
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/%E5%B0%8F%E7%89%9B/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/%E5%B0%8F%E7%89%9Bu1/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+    <loc>https://materliu.github.io/blog/series/talk/</loc>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://materliu.github.io/blog/</loc>
-    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -122,6 +109,27 @@
                 hreflang="zh"
                 href="https://materliu.github.io/blog/"
                 />
+  </url><url>
+    <loc>https://materliu.github.io/blog/tags/electric-bike/</loc>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/tags/lost/</loc>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/tags/remote/</loc>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/series/ride/</loc>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/categories/ride/</loc>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/tags/%E5%B0%8F%E7%89%9B/</loc>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/tags/%E5%B0%8F%E7%89%9Bu1/</loc>
+    <lastmod>2022-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://materliu.github.io/blog/tags/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>

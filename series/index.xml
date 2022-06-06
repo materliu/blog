@@ -9,13 +9,22 @@
       <link>https://materliu.github.io/blog/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://materliu.github.io/blog/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://materliu.github.io/blog/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Themes Guide</title>
-      <link>https://materliu.github.io/blog/series/themes-guide/</link>
+      <title>talk</title>
+      <link>https://materliu.github.io/blog/series/talk/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://materliu.github.io/blog/series/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ride</title>
+      <link>https://materliu.github.io/blog/series/ride/</link>
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://materliu.github.io/blog/series/themes-guide/</guid>
+      <guid>https://materliu.github.io/blog/series/ride/</guid>
       <description></description>
     </item>
     
