@@ -1,0 +1,12 @@
+{{- /* Footer custom content area start */ -}}
+{{- /*     Insert any custom code web-analytics, resources, etc. here */ -}}
+{{- /* Footer custom content area end */ -}}
+
+{{ if hugo.IsProduction }}
+<script>
+    var href = location.href
+    if (href.match(/materliu\.github\.io/g)) {
+        location.href = 'https://materliu.netlify.app/'
+    }
+</script>
+{{ end }}

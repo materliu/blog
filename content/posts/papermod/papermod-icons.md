@@ -2,11 +2,10 @@
 title: "Icons"
 summary: List of all Icons supported by PaperMod
 date: 2021-01-20
-weight: 4
+weight: 101
 aliases: ["/papermod-icons"]
 tags: ["PaperMod"]
 author: "Aditya Telange"
-draft: true
 ---
 
 ## Social Icons

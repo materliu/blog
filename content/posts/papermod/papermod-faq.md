@@ -2,12 +2,10 @@
 title: "FAQs"
 summary: Frequently Asked Questions
 date: 2021-01-20
-aliases: ["/papermod-how-to-guide"]
 tags: ["PaperMod"]
 author: "Aditya Telange"
-draft: true
 aliases: [/posts/papermod/papermod-how-to]
-weight: 3
+weight: 101
 ---
 
 ## Intro
