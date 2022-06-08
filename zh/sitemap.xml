@@ -210,6 +210,26 @@
     <loc>https://materliu.github.io/blog/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-04-28-comile-make-build-difference/</loc>
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-04-27-cookie/</loc>
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-04-17-browser-ctrl-f5/</loc>
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-04-28-javascript_error_type/</loc>
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-03-27-new_image%E4%B8%8A%E6%8A%A5%E5%AD%98%E5%9C%A8%E7%BC%BA%E9%99%B7/</loc>
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-04-04-publish%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84node_modules/</loc>
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-05-26-url-length-limitation/</loc>
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-03-30-web-accessibility/</loc>
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-03-26-window.onerror%E4%B8%8D%E6%98%AF%E4%B8%87%E8%83%BD%E7%9A%84/</loc>
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-04-22-charset-utf-ascii/</loc>
+  </url><url>
     <loc>https://materliu.github.io/blog/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -222,6 +242,12 @@
                 href="https://materliu.github.io/blog/archives/"
                 />
   </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-12-17-huginn/</loc>
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-09-02-write-right-copyright/</loc>
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-04-20-software-version-definition/</loc>
+  </url><url>
     <loc>https://materliu.github.io/blog/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -233,5 +259,7 @@
                 hreflang="zh"
                 href="https://materliu.github.io/blog/search/"
                 />
+  </url><url>
+    <loc>https://materliu.github.io/blog/posts/2014-11-09-cookie-path/</loc>
   </url>
 </urlset>
