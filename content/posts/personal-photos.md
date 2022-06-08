@@ -11,5 +11,5 @@ ShowToc: false
 TocOpen: false
 ---
 
-{{% attachments title="personal photos" pattern=".*\.(pdf|mp4|jpeg|jpg|png)$" %}}
+{{% attachments title="personal photos" pattern=".*\.(pdf|mp4|jpeg|jpg|png|JPG)$" %}}
 
