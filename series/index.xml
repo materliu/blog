@@ -9,7 +9,16 @@
       <link>https://materliu.github.io/blog/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://materliu.github.io/blog/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://materliu.github.io/blog/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>game</title>
+      <link>https://materliu.github.io/blog/series/game/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://materliu.github.io/blog/series/game/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>talk</title>
       <link>https://materliu.github.io/blog/series/talk/</link>
