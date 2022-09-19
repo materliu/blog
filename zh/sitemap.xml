@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://materliu.github.io/blog/posts/psn-account-copy/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://materliu.github.io/blog/posts/psn-account/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -72,8 +75,11 @@
     <loc>https://materliu.github.io/blog/posts/papermod/papermod-variables/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://materliu.github.io/blog/tags/35-years/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://materliu.github.io/blog/categories/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -86,19 +92,13 @@
                 />
   </url><url>
     <loc>https://materliu.github.io/blog/categories/everyday-life/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://materliu.github.io/blog/series/game/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/categories/game/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/playstation/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <loc>https://materliu.github.io/blog/series/life/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://materliu.github.io/blog/posts/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -110,14 +110,8 @@
                 href="https://materliu.github.io/blog/posts/"
                 />
   </url><url>
-    <loc>https://materliu.github.io/blog/tags/ps5/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://materliu.github.io/blog/tags/psn/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://materliu.github.io/blog/series/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -129,8 +123,11 @@
                 href="https://materliu.github.io/blog/series/"
                 />
   </url><url>
+    <loc>https://materliu.github.io/blog/tags/subway/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://materliu.github.io/blog/tags/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -142,8 +139,11 @@
                 href="https://materliu.github.io/blog/tags/"
                 />
   </url><url>
+    <loc>https://materliu.github.io/blog/tags/%E5%8C%97%E4%BA%AC/</loc>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://materliu.github.io/blog/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -154,6 +154,21 @@
                 hreflang="zh"
                 href="https://materliu.github.io/blog/"
                 />
+  </url><url>
+    <loc>https://materliu.github.io/blog/series/game/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/categories/game/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/tags/playstation/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/tags/ps5/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://materliu.github.io/blog/tags/psn/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://materliu.github.io/blog/tags/idiom/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
